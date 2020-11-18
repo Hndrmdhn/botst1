@@ -19,10 +19,10 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Hndrmdhn/botst1
-> cd botst1
-> bash install.sh
-> node index.js
+> $ git clone https://github.com/Hndrmdhn/botst1
+> $ cd botst1
+> $ bash install.sh
+> $ node index.js
 > Tinggal scan qr dah
 ```
 
@@ -46,6 +46,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Say                              |
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
+
+Insyallah nanti bakal ada fitur fitur lain 
 
 ## Special Thanks to
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
