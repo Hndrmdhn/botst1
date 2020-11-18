@@ -1,4 +1,4 @@
-# Hnd-bot
+# botst1
 BOT WHATSAPP HP BY ./Hndrmdhn
 
 ### Alat dan Bahan
