@@ -1,6 +1,5 @@
+pkg install git 
 apt update && apt upgrade
-apt install
-pkg update && pkg upgrade
 git clone https://github.com/Hndrmdhn/botst1
 pkg install wget
 pkg install ffmpeg
